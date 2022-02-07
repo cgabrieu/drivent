@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/leoguzi/drivent-back.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/leoguzi/drivent-front.git
+[submodule "drivent-front"]
+	path = drivent-front
+	url = https://github.com/leoguzi/drivent-front
+[submodule "drivent-back"]
+	path = drivent-back
+	url = https://github.com/leoguzi/drivent-back
